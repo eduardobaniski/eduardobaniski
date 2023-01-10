@@ -1,7 +1,7 @@
 # Hey there, nice to meet ya! I'm @eduardobaniski
 
 - 🌱  I am studying Computer Engineering @ UEPG
-- 🎸  I like to play guitar on my free time
+- 🎸  I like to play guitar 
 
 
 <h3 align="left">Find me on:</h3>
